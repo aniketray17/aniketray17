@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I eat PRs in breakfast :) <img src="https://media1.tenor.com/images/739ddedd695945b3dea906ead3e8ea05/tenor.gif?itemid=13950936" width="20px" height="20px"><br>
 -->
 
-<p2>🔭 Presently I'm working on my problem solving skills and also honing my skills in android development.</p2>
+<p2>🔭 Presently I'm working on my problem solving skills and also honing my skills in android development.</p2><br>
 <p3>🌱 Along with that I'm exploring many new technologies and really enjoying it.</p3>
 
 <p align="center"><img src="https://media1.tenor.com/images/3d06d6ac5a22d245bce66d453f2fad7c/tenor.gif?itemid=4810969" alt="codergif" width="350px" height="250px"></p>
