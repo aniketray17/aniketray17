@@ -1,7 +1,10 @@
 <p align="center"><img src="https://media0.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif?cid=ecf05e47qnv1cjzf6u7pvp56972u6qatd11vpyimvg93fxgw&rid=giphy.gif" alt="codergif" style="max-width:100%;"></p>
-I am Aniket, currently a final year student pursuing B-tech under Gandhi Institute For Education & Technology focused in Computer Science & Engineering.I love to use languages like C, Java, SQL, XML with IDE(s) like Eclipse, Intellij, Android Studio.I really love doing something out of the box.I want to use my knowledge for the betterment of society.<br>
 
 ![](https://komarev.com/ghpvc/?username=aniketray17&color=blue)
+
+<p I am Aniket, currently a final year student pursuing B-tech under Gandhi Institute For Education & Technology focused in Computer Science & Engineering.I love to use languages like C, Java, SQL, XML with IDE(s) like Eclipse, Intellij, Android Studio.I really love doing something out of the box.I want to use my knowledge for the betterment of society.<p></p><br>
+
+
 
 <!--
 **aniketray17/aniketray17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
