@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://media1.tenor.com/images/3d06d6ac5a22d245bce66d453f2fad7c/tenor.gif?itemid=4810969" alt="codergif" width="350px" height="250px"></p><br>
 
-![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=aniketray17&show_icons=true&theme=onedark&count_private)
+![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=aniketray17&count_private(true)&show_icons=true&theme=onedark)
