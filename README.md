@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 <p2>🔭 Presently I'm working on my problem solving skills and also honing my skills in android development.</p2><br>
 <p3>🌱 Along with that I'm exploring many new technologies and really enjoying it.</p3>
 
-![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=aniketray17&show_icons=true&theme=onedark&count_private=true)
+![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=aniketray17&show_icons=true&theme=onedark)
