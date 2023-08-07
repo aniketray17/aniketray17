@@ -1,24 +1,38 @@
-<p align="center"><img src="https://media0.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif?cid=ecf05e47qnv1cjzf6u7pvp56972u6qatd11vpyimvg93fxgw&rid=giphy.gif" alt="codergif" style="max-width:100%;"></p>
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Software Engineering GIF">
+</div>
 
-<p1> I am Aniket, currently a final year student pursuing B-tech under Gandhi Institute For Education & Technology focused in Computer Science & Engineering.I love to use languages like C, Java, SQL, XML with IDE(s) like Eclipse, Intellij, Android Studio.I really love doing something out of the box.I want to use my knowledge for the betterment of society.</p1>
+<br> <!-- Add a line break for spacing -->
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/{your-username}/count.svg" alt="Visitor Count">
+</div>
+
+# Hi there, I'm Aniket Ray 👋
+
+I'm a passionate software developer with a strong foundation in computer science and engineering. I completed my B-Tech degree focused on Computer Science and Engineering in 2021 and have since gained 2 years of valuable experience working at an early-stage product company. During my time there, I led the development of multiple features and applications, contributing to the growth and success of the company.
+
+## Key Skills
+
+### Languages
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+
+### Frameworks
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white) ![ReactJS](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+
+### Technologies
+![Data Structures](https://img.shields.io/badge/-Data%20Structures-008C45?style=flat) ![Algorithms](https://img.shields.io/badge/-Algorithms-FF5733?style=flat) ![DBMS](https://img.shields.io/badge/-DBMS-336791?style=flat) ![Object-Oriented Programming](https://img.shields.io/badge/-OOP-239120?style=flat)
+
+
+## Connect with Me
+
+Let's connect and collaborate! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/aniketkrray17/) to discuss exciting opportunities and projects.
 
 
 
-<!--
-**aniketray17/aniketray17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-**![](https://komarev.com/ghpvc/?username=aniketray17&color=blue)
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aniketray17&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketray17&layout=compact)
 
-<-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... <br>
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I eat PRs in breakfast :) <img src="https://media1.tenor.com/images/739ddedd695945b3dea906ead3e8ea05/tenor.gif?itemid=13950936" width="20px" height="20px"><br>
--->
-
-<p2>🔭 Presently I'm working on my problem solving skills and also honing my skills in android development.</p2><br>
-<p3>🌱 Along with that I'm exploring many new technologies and really enjoying it.</p3>
-
-![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=aniketray17&show_icons=true&theme=onedark&count_private=true)
+Thanks for visiting my GitHub profile!
