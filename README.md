@@ -31,7 +31,7 @@ Let's connect and collaborate! Feel free to reach out to me on [LinkedIn](https:
 
 
 ## GitHub Stats
-#![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aniketray17&show_icons=true&theme=radical)
+## ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aniketray17&show_icons=true&theme=radical)
 [![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniketray17)](https://github.com/aniketray17/github-readme-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketray17&layout=compact)
